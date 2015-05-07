@@ -10,8 +10,11 @@ Hardware:
   Raspberry Pi
   OpenCM 9.04
   Servo XL-320
+  Webcam Logitech C550
   
 Software:
   Python
   OpenCV
   Arduino
+
+colortrackerdrivesservo.ino is the code used in OpenCM 9.04 as it is used in the video. It is just a simple code in order to test the movement of the servo driven by the colored objects detected by the camera.
