@@ -1,7 +1,4 @@
 #----Code Modified by Alfredo Any----------------
-#----For Robot project---------------------------
-#----ECE 590 - Robot Design and Implementation---
-#----Instructor: Dr. Daniel M. Lofaro------------
 
 
 import numpy as np
